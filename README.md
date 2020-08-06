@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p>👋 Hello! I'm Kim.</p>
+  <p style="font-size: 40px; font-weight: bold;">👋 Hello! I'm Kim.</p>
   <a href="https://blog.cckim.cn/">Blog</a>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
