@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ***
 
 <div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
+  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
 </div>
