@@ -11,7 +11,6 @@
 </div>
 
 <div align="center">
-  <p><strong><font size=5 >Stats</font></strong></p>
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
 </div>
 
