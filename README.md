@@ -7,7 +7,7 @@
 ***
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
 </div>
 
