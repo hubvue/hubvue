@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   <p><font size=40><strong>👋 Hello! I'm Kim.</strong></font></p>
   <a href="https://blog.cckim.cn/">Blog</a>
 </div>
-___
+
+***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
