@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ***
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
 </div>
