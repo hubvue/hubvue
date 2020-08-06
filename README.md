@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 
 ***
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hubvue&show_icons=true&theme=radical&count_private=true" />
+</div>
 
 ***
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubvue&layout=compact&theme=radical&count_private=true&show_icons=true" />
+</div>
