@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <p><font size=40><strong>👋 Hello! I'm Kim.</strong></font></p>
+  <p><font size=7><strong>👋 Hello! I'm Kim.</strong></font></p>
   <a href="https://blog.cckim.cn/">Blog</a>
 </div>
 
