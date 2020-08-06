@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" >
-  <p style="font-size: 40px; font-weight: bold;">👋 Hello! I'm Kim.</p>
+  <p><strong>👋 Hello! I'm Kim.</strong></p>
   <a href="https://blog.cckim.cn/">Blog</a>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
